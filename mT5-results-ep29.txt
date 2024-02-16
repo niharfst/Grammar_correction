@@ -1,0 +1,1000 @@
+Sample No. : 0
+Inputs:  It has come to be one of the effective measures manufatures use in selling their products .
+Targets: It has come to be one of the most effective measures manufacturers use to sell their products .
+Generated: It has come to be one of the effective measures manufacturers use in selling their products.
+
+Sample No. : 1
+Inputs:  you have 30 typically an effective response will contain a minimum you will be satisfiy culture expienrence and and fit your test .
+Targets: An effective response will typically contain 30 at a minimum , and you will be satisfied by the culture experience and fit your test .
+Generated: You have 30 typically an effective response will contain a minimum you will be satisfy culture experience and fit your test.
+
+Sample No. : 2
+Inputs:  what is the world and what are we supposed to do here ?
+Targets: What is the world and what are we supposed to do here ?
+Generated: What is the world and what are we supposed to do here?
+
+Sample No. : 3
+Inputs:  Insufficient closet space inefficient heating and decaying plumbing makes life harder to live in old houses . 
+Targets: Insufficient closet space , inefficient heating and decaying plumbing makes living in old houses harder . 
+Generated: Insufficient closet space, inefficient heating, and decaying plumbing makes life harder to live in old houses.
+
+Sample No. : 4
+Inputs:  I would spend as much time as I want , if I like the visiting place . 
+Targets: If I liked the visiting place , I would spend as much time there as I wanted . 
+Generated: I would spend as much time as I want, if I like visiting the place.
+
+Sample No. : 5
+Inputs:  By contrast , the lecture claims that quality of discussion is the most important instead of the numbers of discussion .
+Targets: By contrast , the lecture claims that the quality of discussion is more important than the number of discussions .
+Generated: By contrast, the lecture claims that quality of discussion is more important than the number of discussions.
+
+Sample No. : 6
+Inputs:  Then when we went to the Science Olympiad , she could have diverse knowledges about the subects and it was not new for her to think about new things . 
+Targets: Then when we went to the Science Olympiad , she had diverse knowledge about the subjects as it was not unusual for her to think about new things . 
+Generated: Then, when we went to the Science Olympiad, she had diverse knowledge about the subjects and it was not new for her to think about new things.
+
+Sample No. : 7
+Inputs:  Because getting old is not just age .
+Targets: Because getting old is not just about aging .
+Generated: Because getting old is not just about age.
+
+Sample No. : 8
+Inputs:  Likewise , The theory generating from the concept of memory is also not the appropriate way due to limited memory . 
+Targets: Likewise , the theory generated from the concept of memory is also not appropriate due to limited memory . 
+Generated: Likewise, the theory generating from the concept of memory is also not the appropriate way due to limited memory.
+
+Sample No. : 9
+Inputs:  Otherwise , he/she may feel inadequate one day if he/she furthers his/her study .
+Targets: Otherwise , he/she may feel inadequate one day if he/she furthers his/her study .
+Generated: Otherwise, he/she may feel inadequate one day if he/she furthers his or her study.
+
+Sample No. : 10
+Inputs:  Otherwise , it will be a problem for us to understand certain thing in life . 
+Targets: Otherwise , it will be a problem for us to understand certain things in life . 
+Generated: Otherwise, it will be a problem for us to understand certain things in life.
+
+Sample No. : 11
+Inputs:  It 's modren life now . 
+Targets: It 's modern life now . 
+Generated: It's modern life now.
+
+Sample No. : 12
+Inputs:  Many people think that treasure never existed , but in reality it exits .
+Targets: Many people think that treasure never existed , but in reality it exists .
+Generated: Many people think that the treasure never existed, but in reality it exists.
+
+Sample No. : 13
+Inputs:  I do not want to go Effel Tower in Paris or The Statue of Liberty in New York when I travel because they are too famous , so I alerady heard and saw about them . 
+Targets: I do not want to go to the Eiffel Tower in Paris or The Statue of Liberty in New York when I travel , because they are too famous , so I already heard and saw about them . 
+Generated: I do not want to go to the Eiffel Tower in Paris or The Statue of Liberty in New York when I travel because they are too famous, so I already heard and saw about them 
+
+Sample No. : 14
+Inputs:  Of course , local businesses that depended on park visitors suffered as a result . 
+Targets: Of course , local businesses that depended on park visitors suffered as a result . 
+Generated: Of course, local businesses that depended on park visitors suffered as a result.
+
+Sample No. : 15
+Inputs:  so they will be able to get more knowledge in there free time . 
+Targets: So they will be able to gain more knowledge during their free time . 
+Generated: So they will be able to gain more knowledge in their free time.
+
+Sample No. : 16
+Inputs:  Establishing connections with other researchers will open the door for new projects with other researchers . 
+Targets: Establishing connections with other researchers will open the door for new collaborative projects . 
+Generated: Establishing connections with other researchers will open the door for new projects with other researchers.
+
+Sample No. : 17
+Inputs:  And it seems like that notion will be even strengthen by the emergence of new Chinese producers how are even cheaper .
+Targets: And it seems like that notion will be even more strengthened by the emergence of new Chinese producers that are even cheaper .
+Generated: And it seems like that notion will be strengthened by the emergence of new Chinese producers that are even cheaper.
+
+Sample No. : 18
+Inputs:  so i think having selfconfdence is more important than having knowledge . 
+Targets: I think having self-confidence is more important than having knowledge . 
+Generated: So I think having self-confidence is more important than having knowledge.
+
+Sample No. : 19
+Inputs:  He could then strive to get practical experience of that field after all theory is lame without practical .
+Targets: He could then strive to gain practical experience in that field ; after all , theory is lame without practice .
+Generated: He could then strive to get practical experience in that field, after all, theory is lame without practice.
+
+Sample No. : 20
+Inputs:  In other words , the image in the TV comercial is the most important point that the watcher determine whether he/she but it or not .
+Targets: In other words , the image in the TV commercial is the most important factor in determining whether the watcher buys it or not .
+Generated: In other words, the image in the TV commercial is the most important point that the watcher determine whether he/she buys it or not.
+
+Sample No. : 21
+Inputs:  It is better to have a very good understanding knowledege of many academic because it makes you broad and gives you chances and oppurtunity to work in different fields and enviroment .
+Targets: It is better to have a very good understanding and knowledge of many academic subjects because it gives you breadth and the chance and opportunity to work in different fields and environments .
+Generated: It is better to have a very good understanding and knowledge of many academic subjects because it makes you broad and gives you chances and opportunities to work in different fields and environments.
+
+Sample No. : 22
+Inputs:  Finally , fish farming relates to long term wastefulness whcih can pollute the sea . 
+Targets: Finally , fish farming relates to long term wastefulness , which can pollute the sea . 
+Generated: Finally, fish farming relates to long term wastefulness which can pollute the sea.
+
+Sample No. : 23
+Inputs:  This contradicts the reading passage 's that it has bad influences to economics . 
+Targets: This contradicts the passage that it is a bad influence to economics . 
+Generated: This contradicts the reading passage's theory that it has bad influences to economics.
+
+Sample No. : 24
+Inputs:  As the cities were smallers , it was less violence , noise , traffic ... 
+Targets: As the cities were smaller , there was less violence , noise , traffic , etc . 
+Generated: As the cities were smaller, there was less violence, noise, traffic...
+
+Sample No. : 25
+Inputs:  The public transpotation in the city may not be able to cope with this huge amount of people flow .
+Targets: The public transportation in the city may not be able to cope with this huge amount of people flowing through .
+Generated: The public transportation in the city may not be able to cope with this huge amount of people flowing through.
+
+Sample No. : 26
+Inputs:  I will outline in the below paragraphs my arguments in favor of this statement .
+Targets: I will outline in the following paragraphs my arguments in favor of this statement .
+Generated: I will outline in the below paragraphs my arguments in favor of this statement.
+
+Sample No. : 27
+Inputs:  It 's expensive .
+Targets: It 's expensive .
+Generated: It's expensive.
+
+Sample No. : 28
+Inputs:  I will explain my points of views in the following paragraphs . 
+Targets: I will explain my point of view in the following paragraphs . 
+Generated: I will explain my point of view in the following paragraphs.
+
+Sample No. : 29
+Inputs:  This point affect the environment of the world in case of wasting the energy . 
+Targets: This point affects the environments of the world in the case of wasting the energy . 
+Generated: This point affects the environment of the world in the case of wasting the energy.
+
+Sample No. : 30
+Inputs:  However , a lot of reasons explain about that the placebo effect does . 
+Targets: However , a lot of the reasons explain about that the placebo effect does . 
+Generated: However, a lot of reasons explain what the placebo effect does.
+
+Sample No. : 31
+Inputs:  Second the amount of treasure locations are implausibly large . 
+Targets: Second , the number of treasure locations is unbelievably large . 
+Generated: Second, the number of treasure locations is implausibly large.
+
+Sample No. : 32
+Inputs:  they did not get the ideas or any concepts about what they learn .
+Targets: They did not understand the ideas or any concepts behind what they learned .
+Generated: They did not get the ideas or concepts from what they learned.
+
+Sample No. : 33
+Inputs:  Can you ever visualize what a chaos our society would suffer if every individual considers himself/ herself an expert in every given field ?
+Targets: Have you ever visualized what chaos our society would suffer if every individual considered himself/ herself an expert in every given field ?
+Generated: Can you visualize what chaos our society would suffer if every individual considers himself/ herself an expert in every given field?
+
+Sample No. : 34
+Inputs:  So if you want me to choose right now , I will choose ordinary milk instead of that special kind . 
+Targets: So if you want me to choose right now , I will choose ordinary milk over that special kind . 
+Generated: So if you want me to choose right now, I will choose ordinary milk instead of that special kind.
+
+Sample No. : 35
+Inputs:  But the owner that posses one car dealer shop offert to him other job , with better conditions and benefits . 
+Targets: But the owner that posses one car dealer shop offered him a job , with better conditions and benefits . 
+Generated: But the owner that posses one car dealer shop offered him another job, with better conditions and benefits.
+
+Sample No. : 36
+Inputs:  They follow the way the Sun goes from the east to the west .
+Targets: They follow the way the sun goes from the east to the west .
+Generated: They follow the way the Sun goes from the east to the west.
+
+Sample No. : 37
+Inputs:  But if all you want is stay at home and live on your own , perhaps it is not that important for you .
+Targets: But if all you want is stay at home and live on your own , perhaps it is not that important for you .
+Generated: But if all you want is stay at home and live on your own, perhaps it is not that important for you.
+
+Sample No. : 38
+Inputs:  Therefore , I support the statement that it is more important to understand ideas and concepts than it is to learn facts . 
+Targets: Therefore , I support the statement that it is more important to understand ideas and concepts than it is to learn facts . 
+Generated: Therefore, I support the statement that it is more important to understand ideas and concepts than it is to learn facts.
+
+Sample No. : 39
+Inputs:  And the prasdent of compeny lake Toyota or Ford , they successful because they know how to start ther compeny and makeing a smart thing .
+Targets: And the presidents of companies like Toyota and Ford ; they are successful because they know how to run their company and make a smart product .
+Generated: And the presidents of companies like Toyota or Ford are successful because they know how to start their companies and make smart things.
+
+Sample No. : 40
+Inputs:  Ideas and motives for the war are more important to know because from them one might draw some conclusions and it might change something inside the student .
+Targets: Motives for war are more important to know because , from them , one might draw some conclusions and it might change something inside the student .
+Generated: Ideas and motives for the war are more important to know because from them one might draw some conclusions and it might change something inside the student.
+
+Sample No. : 41
+Inputs:  As a result , she could get a job that she badly wanted but she did n't expected because many people were flock to this company .
+Targets: As a result , she was able to get a job that she badly wanted but did n't expect because so many people were flocking to this company .
+Generated: As a result, she could get a job that she badly wanted but didn't expect to because many people were flocking to this company.
+
+Sample No. : 42
+Inputs:  Firstly , it is hard for young people to find time to help their community .
+Targets: Firstly , it is hard for young people to find time to help their community .
+Generated: Firstly, it is hard for young people to find time to help their community.
+
+Sample No. : 43
+Inputs:  Can you ever visualize what a chaos our society would suffer if every individual considers himself/ herself an expert in every given field ?
+Targets: Can you ever visualize what chaos our society would suffer if every individual considers himself / herself an expert in every given field ?
+Generated: Can you visualize what chaos our society would suffer if every individual considers himself/ herself an expert in every given field?
+
+Sample No. : 44
+Inputs:  Making exercitation students can learn how to proceed in a correct way and making wrong operation they will be able to understand the concepts and don-t make the same errors or mistakes in the future .
+Targets: By doing exercises , students can learn how to proceed in the correct way , and making errors will help them better understand the concepts and not make the same errors or mistakes in the future .
+Generated: Making exercises students can learn how to proceed correctly and making wrong operation they will be able to understand the concepts and not make the same errors or mistakes in the future.
+
+Sample No. : 45
+Inputs:  New experiences to somebory is the same of the challenger and challenger is moviment , rason to some people been continue living .
+Targets: New experiences to somebody is the same as the challenger and challenger is movement and reason for some people to continue living .
+Generated: New experiences to somebody is the same as the challenger and challenger is movement, and reason for some people to continue living.
+
+Sample No. : 46
+Inputs:  therefore I brougth a car imidiatly . 
+Targets: Therefore , I bought a car immediately . 
+Generated: Therefore, I bought a car immediately.
+
+Sample No. : 47
+Inputs:  lrenikg the studens the ideas have many advantegis :
+Targets: The students and the ideas have many advantages :
+Generated: Ranking the students ideas has many advantages.
+
+Sample No. : 48
+Inputs:  So the school try learning the students a bit in every science exist . 
+Targets: So the school tried teaching the students a bit about every science that exists . 
+Generated: So the school tries to teach the students a bit of every science.
+
+Sample No. : 49
+Inputs:  So what shall I do ?
+Targets: So what shall I do ?
+Generated: So what shall I do?
+
+Sample No. : 50
+Inputs:  also save your time and make you satify this journal .
+Targets: Also , it saves your time and makes you satisfy this journal .
+Generated: Also, save your time and make sure you are satisfied with this journal.
+
+Sample No. : 51
+Inputs:  But they do things in a different maner than others which gives them success . 
+Targets: But they do things in a different manner than others , which makes them successful . 
+Generated: But they do things in a different manner than others, which gives them success.
+
+Sample No. : 52
+Inputs:  However , I want to go to the U.S.A that I can study and life in my dream 's contury , I want to have my famliy that I never not alony .
+Targets: However , I want to go to the U.S.A so that I can study and live in my dream country , I want to have a family so that I am never lonely .
+Generated: However, I want to go to the U.S.A. so that I can study and live in my dream country and I want to have my family so that I never have a family.
+
+Sample No. : 53
+Inputs:  the school teachers there the one who take the future of youg genaration so we have to give them to get the better knowledge . 
+Targets: The school teachers they 're the ones who take the future young generations so we have to support them to make younger ones more knowledgeable . 
+Generated: The school teachers there the one who take the future of youg genaration so we have to give them to get the better knowledge.
+
+Sample No. : 54
+Inputs:  He will be matured enough to take wise decisions in expanding his business and trying out new things .
+Targets: He will be mature enough to make wise decisions in expanding his business and trying out new things .
+Generated: He will be mature enough to make wise decisions in expanding his business and trying out new things.
+
+Sample No. : 55
+Inputs:  students may doas not anderstand facts very will antell they ander stand the idea and concept that is related to the fact .
+Targets: Students may not understand facts very well until they understand the idea and concept that is related to the fact .
+Generated: Students may not understand facts very will until they understand the idea and concept that is related to the fact.
+
+Sample No. : 56
+Inputs:  but on the other hand , we have a risk to poison this product , because farmers often feed their fish growth-inducing chemicals .
+Targets: On the other hand , we have a risk to poison this product , because farmers often feed their fish growth-inducing chemicals .
+Generated: But on the other hand, we have a risk to poison this product, because farmers often feed their fish growth-inducing chemicals.
+
+Sample No. : 57
+Inputs:  Many Scientists obtained clear results of investigations after the facts were on the table before they could even began to theorise about them . 
+Targets: Many scientists obtained clear results of investigations after the facts were on the table , and before they could even begin to theorize about them . 
+Generated: Many scientists obtained clear results of investigations after the facts were on the table, and before they could even begin to theorize about them.
+
+Sample No. : 58
+Inputs:  In my case , when I did a job interview , the employer ask me question about commensence like society , policy , art , and so on . 
+Targets: In my case , when I went on a job interview , the employer asked me common sense questions about things like society , policy , art , and so on . 
+Generated: In my case, when I did a job interview, the employer ask me questions about common sense like society, policy, art, and so on.
+
+Sample No. : 59
+Inputs:  Let 's say your interest lies in paintings .
+Targets: Let 's say your interest lies in paintings .
+Generated: Let's say your interest lies in paintings.
+
+Sample No. : 60
+Inputs:  but as we are young our body generates the new cell . 
+Targets: When we are young , our body generates the new cell . 
+Generated: But as we are young, our body generates the new cell.
+
+Sample No. : 61
+Inputs:  A tour guide is generally a person who knows a great deal about the country , its most beautiful places , most visited ones , and the so on .
+Targets: A tour guide is generally a person who knows a great deal about the country , its most beautiful places , its most visited ones , and so on .
+Generated: A tour guide is generally a person who knows a great deal about the country, its most beautiful places, most visited ones, and so on.
+
+Sample No. : 62
+Inputs:  But generally , moments of happiness in life can not really be compared because they are different .
+Targets: But generally , moments of happiness in life can not really be compared because they are different .
+Generated: But generally, moments of happiness in life can not really be compared because they are different.
+
+Sample No. : 63
+Inputs:  Althogh some people say that the treasures are already found . 
+Targets: Some people say that the treasures are already found . 
+Generated: Althogh some people say that the treasures are already found.
+
+Sample No. : 64
+Inputs:  so they will be able to get more knowledge in there free time . 
+Targets: So they will be able to become more knowledge in their free time . 
+Generated: So they will be able to gain more knowledge in their free time.
+
+Sample No. : 65
+Inputs:  For example when I went to Bangkok , Thailand few years ago , I experienced I was a stranger in downtown .
+Targets: For example , when I went to Bangkok , Thailand a few years ago , I experienced I was a stranger in downtown .
+Generated: For example, when I went to Bangkok, Thailand a few years ago, I experienced that I was a stranger in downtown.
+
+Sample No. : 66
+Inputs:  It will eat insects or animals that will did damage to places so that it can avoid loses to repair things . 
+Targets: It will eat insects or animals that do damage to it so that it can avoid having to repair itself . 
+Generated: It will eat insects or animals that do damage to places so that it can avoid loses of repairing things.
+
+Sample No. : 67
+Inputs:  Further more by these evidence u will agree 
+Targets: Furthermore , with this evidence , you will agree . 
+Generated: Further more, with this evidence you will agree
+
+Sample No. : 68
+Inputs:  However , she also said that some kinds of birds are shrink .
+Targets: However , she also said that the number of different kinds of birds are shrinking .
+Generated: However, she also said that some kinds of birds are shrinking.
+
+Sample No. : 69
+Inputs:  Usually in the advertisements a presentable face is used they try to present some modals , nice babies , known faces as sports men , only to let the product looks better than it was . 
+Targets: Usually in advertisements , a presentable face is used , such as models , nice babies , or famous sportsmen , just so that the product looks better than it is . 
+Generated: Usually in advertisements a presentable face is used : models, nice babies, known faces as sportsmen, only to let the product look appealing.
+
+Sample No. : 70
+Inputs:  these days our communication also in very good step . 
+Targets: These days our communication is also in very good step . 
+Generated: These days our communication is also in very good step.
+
+Sample No. : 71
+Inputs:  If students have to study for history for example it is often enough to just learn the facts but on the other hand studing for physics or maths needs the understanding of the concepts .
+Targets: If students have to study for history , for example , it is often enough to just learn the facts ; but on the other hand , studying for physics or math requires understanding of the concepts .
+Generated: If students have to study for history for example it is often enough to just learn the facts but on the other hand studying for physics or math needs the understanding of the concepts.
+
+Sample No. : 72
+Inputs:  Second , old houses can stands in the way of the development of communicates .
+Targets: Second , old houses can stand in the way of the development of communities .
+Generated: Second, old houses can stand in the way of the development of communities.
+
+Sample No. : 73
+Inputs:  but the professor refutes the idea by illustrating some tested resulta from research condcted by a oil is not taken arouend the world .
+Targets: But the professor refutes the idea by illustrating some tested results from research conducted by a oil not taken from around the world .
+Generated: But the professor refutes the idea by illustrating some tested results from research conducted by a oil not taken around the world.
+
+Sample No. : 74
+Inputs:  We had a lot of conversations concerning the future of this sector , but never detected signs or future plans for the sector which would implicit a declination of the amount of cars .
+Targets: We had a lot of conversations concerning the future of this sector , but never detected signs or future plans for the sector which would implicate a decline in the amount of cars .
+Generated: We had a lot of conversations concerning the future of this sector, but never detected signs or future plans for the sector which would imply a decline in the amount of cars.
+
+Sample No. : 75
+Inputs:  They have limit to way which have meaning and function like a word .
+Targets: They have limits to ways that have meaning and function like words .
+Generated: They have limits to the way in which they have meaning and function like a word.
+
+Sample No. : 76
+Inputs:  The first theory is that birds navigate in reference to celestial objects like the sun and stars .
+Targets: The first theory is that birds navigate in reference to celestial objects like the sun and stars .
+Generated: The first theory is that birds navigate in reference to celestial objects like the sun and stars.
+
+Sample No. : 77
+Inputs:  They can travel more freely than older people do .
+Targets: They can travel more freely than older people do .
+Generated: They can travel more freely than older people can.
+
+Sample No. : 78
+Inputs:  These useful skills that I learned from reality are going to be the greatest gift for my future career , and they can not be found in the text books anyways . 
+Targets: These useful skills that I learned from reality are going to be the greatest gift for my future career and they can not be found in the text books anyways . 
+Generated: These useful skills that I learned from real life are going to be the greatest gift for my future career, and they can not be found in textbooks anyway.
+
+Sample No. : 79
+Inputs:  At the time of emergency he / she could be of great help if he / she is aware of the child health problems and their cure .
+Targets: At the time of emergency , he/she could be of great help if he/she is aware of the child 's health problems and their cure .
+Generated: At the time of emergency he/she could be of great help if he/she is aware of the child health problems and their cure.
+
+Sample No. : 80
+Inputs:  He poinetd out that climate plays a role in the erosion of materials . 
+Targets: He pointed out that the climate plays a role in the erosion of materials . 
+Generated: He pointed out that the climate plays a role in the erosion of materials.
+
+Sample No. : 81
+Inputs:  Of course , local businesses that depended on park visitors suffered as a result . 
+Targets: Of course , local businesses that depended on park visitors suffered as a result . 
+Generated: Of course, local businesses that depended on park visitors suffered as a result.
+
+Sample No. : 82
+Inputs:  when they do some work they thinks they have to fine work in time .
+Targets: When they do some work , they think they have to find work in time .
+Generated: When they do some work, they think they have to find work in time.
+
+Sample No. : 83
+Inputs:  I expect human can make new material to replace gas but it is very difficult .
+Targets: I expect humans can make new material to replace gas but it is very difficult .
+Generated: I expect humans can make new material to replace gas but it is very difficult.
+
+Sample No. : 84
+Inputs:  But it dengerous , because some driver make trobull with other driver and they when some driver crash their car then streets are busy . 
+Targets: But it 's dangerous , because some drivers make trouble with other drivers when they crash their cars when streets are busy . 
+Generated: But it is dangerous, because some drivers make trouble with other drivers and then when some driver crashes their car when streets are busy.
+
+Sample No. : 85
+Inputs:  Thoes advertisements make products seem much better than they really are . 
+Targets: Those advertisements make the products seem much better than they really are . 
+Generated: Those advertisements make products seem much better than they really are.
+
+Sample No. : 86
+Inputs:  After all , we are the internet generation .
+Targets: After all , we are the internet generation .
+Generated: After all, we are the internet generation.
+
+Sample No. : 87
+Inputs:  Facts helps us to know the utility or advantages of the product that has newly formed .
+Targets: Facts help us to know the utility or advantage of the product that has newly formed .
+Generated: Facts help us know the utility or advantages of the product that has newly formed.
+
+Sample No. : 88
+Inputs:  For example , famous businessman travel over the world everyday !
+Targets: For example , famous businessmen travel all over the world everyday !
+Generated: For example, famous businessman travel over the world every day!
+
+Sample No. : 89
+Inputs:  But by then we have already bought the product and end up loosing the money . 
+Targets: But by then we had already bought the product and ended up losing the money . 
+Generated: But by then, we have already bought the product and end up losing the money.
+
+Sample No. : 90
+Inputs:  the school teachers there the one who take the future of youg genaration so we have to give them to get the better knowledge . 
+Targets: The school teachers there are the ones who create the future of the younger generation so we have to teach them better . 
+Generated: The school teachers there the one who take the future of youg genaration so we have to give them to get the better knowledge.
+
+Sample No. : 91
+Inputs:  That is not what merit-based payment is really about .
+Targets: That is not what merit-based payment is really about .
+Generated: That is not what merit-based payment is really about.
+
+Sample No. : 92
+Inputs:  what we have to care about is that the oil is not used only for cars but also other materials .
+Targets: What we have to care about is that the oil is not used only for cars , but also for other materials .
+Generated: What we have to care about is that the oil is not used only for cars but also for other materials.
+
+Sample No. : 93
+Inputs:  In addition it have a nagatice influence on agriculture . 
+Targets: In addition , it has a negative influence on agriculture . 
+Generated: In addition, it has a negative influence on agriculture.
+
+Sample No. : 94
+Inputs:  As people say `` The luck follows the ones that are brave '' and to destroy your everyday routine you must be brave enough but that will probably bring you success .
+Targets: As people say , `` The luck follows the ones that are brave '' and to destroy your everyday routine you must be brave enough and that will probably bring you success .
+Generated: As people say, `` The luck follows the ones that are brave '' and to destroy your everyday routine you must be brave enough but that will probably bring you success.
+
+Sample No. : 95
+Inputs:  The product is always presented in a perfect way . 
+Targets: The product is always presented in a perfect way . 
+Generated: The product is always presented in a perfect way.
+
+Sample No. : 96
+Inputs:  However , almost all of tour guide would go there with my group members and me .
+Targets: However , almost all of the tour guides would go there with my group members and me .
+Generated: However, almost all of the tour guides would go there with my group members and me.
+
+Sample No. : 97
+Inputs:  They come together for a 'LAN-party ' with the neighbour 's kids .
+Targets: They come together for a 'LAN-party ' with the neighbor 's kids .
+Generated: They come together for a 'LAN-party'with the neighbor's kids.
+
+Sample No. : 98
+Inputs:  Take the example of Bangalore city in India .
+Targets: Take for example the city of Bangalore in India .
+Generated: Take the example of Bangalore City in India.
+
+Sample No. : 99
+Inputs:  I support my feel that it can be part of life .
+Targets: I support my feeling that it can be a part of life .
+Generated: I support my feeling that it can be part of life.
+
+Sample No. : 100
+Inputs:  Hence from the very beginning children form this hesitancy from interaction with other people which time only solidifies . 
+Targets: Hence , from the very beginning children form this hesitancy from interaction with other people , which time then only solidifies . 
+Generated: Hence from the very beginning children form this hesitancy from interaction with other people which time only solidifies.
+
+Sample No. : 101
+Inputs:  Exactly like master of none and Jack of all . 
+Targets: Exactly like master of none and jack of all trades . 
+Generated: Exactly like master of none and jack of all trades.
+
+Sample No. : 102
+Inputs:  Any user who has used any toothpaste definelty knows that this can never be true . 
+Targets: Any user who has used any toothpaste definetly knows that this can never be true . 
+Generated: Any user who has used any toothpaste definitely knows that this can never be true.
+
+Sample No. : 103
+Inputs:  I think that the car , twenty years from now will use electric fuel not gasoline . 
+Targets: I think that the car , twenty years from now , will use electric fuel rather than gasoline . 
+Generated: I think that the car, twenty years from now, will use electric fuel not gasoline.
+
+Sample No. : 104
+Inputs:  So depending on the study it would be better oin way or the other one the thing is to choose the right one . 
+Targets: So depending on the study , one way might be better than the other ; the important thing is to choose the right one . 
+Generated: So depending on the study, it would be better one way or the other ; the thing is to choose the right one.
+
+Sample No. : 105
+Inputs:  If everone in the city uses their own cars , the city will be seriously polluted by the smoke .
+Targets: If everyone in the city uses their own cars , the city will be seriously polluted by the smoke .
+Generated: If everyone in the city uses their own cars, the city will be seriously polluted by the smoke.
+
+Sample No. : 106
+Inputs:  Maybe when the economy is bad , such people can find new jobs quickly , but it may not be the best job they can do .
+Targets: Maybe when the economy is bad , such people can find new jobs quickly , but it may not be the best job they can do .
+Generated: Maybe when the economy is bad, such people can find new jobs quickly, but it may not be the best job they can do.
+
+Sample No. : 107
+Inputs:  And there is a lot of critics concerned that the reqired testing is so long that declined the valueable for patients . 
+Targets: And there are a lot of critics concerned that the required testing is too long to be valuable for patients . 
+Generated: And there are a lot of critics concerned that the required testing is so long that it declined the validity for patients.
+
+Sample No. : 108
+Inputs:  Sometimes , even a personality , like a famous actor , becomes this truthworthy voice .
+Targets: Sometimes , even a personality , like a famous actor , becomes this trustworthy voice .
+Generated: Sometimes even a personality, like a famous actor, becomes this trustworthy voice.
+
+Sample No. : 109
+Inputs:  They only care if the effects are good and popular among the crowds .
+Targets: They only care if the effects are good and popular with the crowds .
+Generated: They only care if the effects are good and popular among the crowds.
+
+Sample No. : 110
+Inputs:  We alwayse joke around or doing something stupid .
+Targets: We always joke around or do something stupid .
+Generated: We always joke around or do something stupid.
+
+Sample No. : 111
+Inputs:  The gas from cars will destroy the environment of the earth and it will heat earth up . 
+Targets: The gas from cars will destroy the environment of the earth and it will heat the earth up . 
+Generated: The gas from cars will destroy the environment of the earth and it will heat the earth up.
+
+Sample No. : 112
+Inputs:  As it is important to see your work in the context of the whole car , he now still benefits from his broadly chosen majors in college . 
+Targets: As it is important to see your work in the context of the whole car , he now still benefits from his broadly chosen majors in college . 
+Generated: As it is important to see your work in the context of the whole career, he now still benefits from his broadly chosen majors in college.
+
+Sample No. : 113
+Inputs:  Second , if there is any problem with the goods . 
+Targets: Second , if there are any problems with the goods . 
+Generated: Second, if there are any problems with the goods.
+
+Sample No. : 114
+Inputs:  The government would like to reduce the population with this fishing limits . 
+Targets: The government would like to reduce the population using these fishing limits . 
+Generated: The government would like to reduce the population using these fishing limits.
+
+Sample No. : 115
+Inputs:  Understand how they work would give students a better lesson .
+Targets: Understanding how they work would give students a better lesson .
+Generated: Understanding how they work would give students a better lesson.
+
+Sample No. : 116
+Inputs:  This degree would enable me to branch out and look into other fields that involve some basic engineering .
+Targets: This degree would enable me to branch out and look into other fields that involve some basic engineering .
+Generated: This degree would enable me to branch out and look into other fields that involve some basic engineering.
+
+Sample No. : 117
+Inputs:  but in contrasting in lecture professor states that it is impossible that video is not expensive . 
+Targets: But in contrast to the lecture , professor states that it is impossible that video is not expensive . 
+Generated: But in contrast, the professor states in the lecture that it is impossible that video is not expensive.
+
+Sample No. : 118
+Inputs:  Although the professor in the listening passage explains that the solution is acceptable because not only the striped bass population is vital for menhaden but also the entire ecological system based on it .
+Targets: Although , the professor in the listening passage explains that the solution is acceptable because not only is the striped bass population vital for Menhaden , but also the entire ecological system based on it .
+Generated: Although the professor in the listening passage explains that the solution is acceptable because not only is the striped bass population vital for menhaden, but also the entire ecological system is based on
+
+Sample No. : 119
+Inputs:  I would also like to say that understanding concepts and ideas is a much more important way of studying for students . 
+Targets: I would also like to say that understanding concepts and ideas is a much more important way for students to study . 
+Generated: I would also like to say that understanding concepts and ideas is a much more important way of studying for students.
+
+Sample No. : 120
+Inputs:  So , Ho Chi Minh city will develope 
+Targets: So , Ho Chi Minh City will develop . 
+Generated: So Ho Chi Minh city will develop.
+
+Sample No. : 121
+Inputs:  it would increased in price after afew year and its ' owner would have an overprice and he would be a successful man .
+Targets: It would increase in price after a few years and its owner would have underpaid , and he would be a successful man .
+Generated: It would increase in price after a few years and its owner would have an overprice and he would be a successful man.
+
+Sample No. : 122
+Inputs:  They complete each other .
+Targets: They complete each other .
+Generated: They complete each other.
+
+Sample No. : 123
+Inputs:  For example , nobody is going to ask his personal doctor which he sees when he has a flue if he can also do a heart surgery or transplant organs . 
+Targets: For example , no one is going to ask his personal doctor who he sees when he has the flu if he can also do heart surgery or transplant organs . 
+Generated: For example, nobody is going to ask his personal doctor, which he sees when he has a flu, if he can also do heart surgery or transplant organs.
+
+Sample No. : 124
+Inputs:  Recently scientist have been working on new generation lie detector that can perform brain- scanning to find out if person telling the true . 
+Targets: Recently scientists have been working on a new generation of lie detector that can perform brain-scanning to find out if a person is telling the truth . 
+Generated: Recently scientist have been working on a new generation lie detector that can perform brain-scanning to find out if a person is telling the truth.
+
+Sample No. : 125
+Inputs:  For example , drivers might memorize where the speed camera is located . 
+Targets: For example , drivers might memorize where the speed camera is located . 
+Generated: For example, drivers might memorize where the speed camera is located.
+
+Sample No. : 126
+Inputs:  First effection is grobal warming . 
+Targets: The first effect is global warming . 
+Generated: The first effect is global warming.
+
+Sample No. : 127
+Inputs:  They think what the celebrities say in the advertisement is true .
+Targets: They think what the celebrities say in the advertisement is true .
+Generated: They think what the celebrities say in the advertisement is true.
+
+Sample No. : 128
+Inputs:  It is related strongly to our daily life .
+Targets: It is strongly related to our daily life .
+Generated: It is strongly related to our daily life.
+
+Sample No. : 129
+Inputs:  So we are more successful the day of the exam . 
+Targets: So we will be more successful on the day of the exam . 
+Generated: So we are more successful on the day of the exam.
+
+Sample No. : 130
+Inputs:  It is a brillant idea , and you know that you are really good working with small boys and girls , but you have to risk your work , your salary , and with this almost your life for an idea that may or may not work . 
+Targets: It is a brilliant idea , and you know that you are really good working with small boys and girls , but you have to risk your work , your salary , and , with this , almost your life for an idea that may , or may not , work . 
+Generated: It is a brillant idea, and you know that you are really good working with small boys and girls, but you have to risk your work, your salary, and with this almost your
+
+Sample No. : 131
+Inputs:  It was said in the passage that the humans are endotherms and maintain the internal body temperatures upto 37 degrees , the same with dinosaurs that they maintain body temperatures upto 37 degrees or more than this temperature .
+Targets: It was said in the passage that humans are endotherms and maintain an internal body temperature up to 37 degrees , the same as dinosaurs that also maintained body temperatures up to 37 degrees or more .
+Generated: It was said in the passage that humans are endothermic and maintain an internal body temperature up to 37 degrees, the same with dinosaurs that they maintain body temperatures up to 37 degrees or
+
+Sample No. : 132
+Inputs:  Because it transmit the hebitats from Eastern Europe to different places in the world . 
+Targets: It transmits the habitats from Eastern Europe to different places in the world . 
+Generated: Because it transmits the habitats from Eastern Europe to different parts of the world.
+
+Sample No. : 133
+Inputs:  I had been struggling with the way of completing hard assignments , studying , improving a grade , and learning strategies .
+Targets: I had been struggling with this way of completing hard assignments , studying , improving grades , and the learning strategies .
+Generated: I had been struggling with completing hard assignments, studying, improving my grade, and learning strategies.
+
+Sample No. : 134
+Inputs:  I feel that with the environmentally friendly benefits and with the attachment that society already has on cars will make people keep riding cars . 
+Targets: I feel that with the environmentally friendly benefits , and with the attachment that society already has on cars , the benefits will make people keep riding cars . 
+Generated: I feel that with the environmentally friendly benefits and with the attachment that society already has on cars, people will keep riding cars.
+
+Sample No. : 135
+Inputs:  And if the knowledge is in all the area 's then it gives you an added advatage to you knowledge level . 
+Targets: And if there is knowledge in all areas , then it provides an added advantage to your knowledge level . 
+Generated: And if the knowledge is in all areas, then it gives you an added advantage to your knowledge level.
+
+Sample No. : 136
+Inputs:  they are the boney and vital part o the society .
+Targets: They are the most bony and vital part to the society .
+Generated: They are the bony and vital part of the society.
+
+Sample No. : 137
+Inputs:  Ever increasing competancy rates force them into frequent business model changes for a compatible trasisional flexibility . 
+Targets: Ever increasing competency rates force them into frequent business model changes for compatible transitional flexibility . 
+Generated: Ever increasing competency rates force them into frequent business model changes for compatible transitional flexibility.
+
+Sample No. : 138
+Inputs:  But , on the contrary , he argues thlat fluoride also some disadvantage .
+Targets: But , on the contrary , he argues that fluoride also has some disadvantages .
+Generated: But, on the contrary, he argues that fluoride also has some disadvantages.
+
+Sample No. : 139
+Inputs:  He 's the one who can give the different specialities the possibility to shine .
+Targets: He 's the one who can give different specialties the possibility to shine .
+Generated: He's the one who can give the different specialities the possibility to shine.
+
+Sample No. : 140
+Inputs:  So it means there is no certain way about how migratintg birds find their way to the home .
+Targets: So it means that there is no certain way that migrating birds find their way home .
+Generated: So it means there is no certain way how migrating birds find their way home.
+
+Sample No. : 141
+Inputs:  If in this society who will not to do study they never concept there opportunity or ca n't understand any ideas so most of the important that in this situation and I also very interestion and also prefer that for the study material . 
+Targets: In this society , those who will not study will never grasp the concepts or understand any ideas , which is the most important point ; thus I am also very interested and prefer to have the study materials . 
+Generated: In this society, those who do not study will never have opportunities or understand ideas, so most of the important point in this situation, I am also very interested and prefer study materials.
+
+Sample No. : 142
+Inputs:  But in my opinion , if you want be a succussful people , you should have brave to try new things and take risks . 
+Targets: But in my opinion , if you want be a successful person , you should try new things and take risks . 
+Generated: But in my opinion, if you want be a successful person, you should be brave enough to try new things and take risks.
+
+Sample No. : 143
+Inputs:  In deed , they can be refuced . 
+Targets: Indeed , they can be refused . 
+Generated: Indeed, they can be refused.
+
+Sample No. : 144
+Inputs:  And what is more effective than loads of people working towards the same aim ?
+Targets: And what is more effective than loads of people working towards the same goal ?
+Generated: And what is more effective than loads of people working towards the same aim?
+
+Sample No. : 145
+Inputs:  If students just learn facts , they will forget them soon , but this will not happen so easily if they understand properly the concepts that are behind the facts . 
+Targets: If students just learn facts , they will forget them soon , but this will not happen so easily if they understand properly the concepts that are behind the facts . 
+Generated: If students just learn facts, they will forget them soon, but this will not happen so easily if they properly understand the concepts behind the facts.
+
+Sample No. : 146
+Inputs:  He was successful aleady in his fields of living electric equipments , but , his began to new dominant of electronics technology and was succeed .
+Targets: He was successful in his field of fixing electrical equipment , but he began to dominate of the field of electronics technology and was successful .
+Generated: He was successful in his field of fixing electric equipment, but he began to dominate of electronics technology and was successful.
+
+Sample No. : 147
+Inputs:  People feel more secure and comfortable to tarvel with their own car rather that changing several public transportation vehicles and reach their destination far later that they would desire . 
+Targets: People feel more secure and comfortable to tarvel with their own car rather that changing several public transportation vehicles and reach their destination far later that they would desire . 
+Generated: People feel more secure and comfortable traveling with their own car rather that changing several public transportation vehicles and reaching their destination late.
+
+Sample No. : 148
+Inputs:  Secondly , they have the confidence that new way will be another way to improve a mechanis .
+Targets: Secondly , they are confident that there will be a new way to improve a mechanics .
+Generated: Secondly, they have the confidence that the new way will be another way to improve a mechanism.
+
+Sample No. : 149
+Inputs:  I cast doubt that twenty years is too short time to prove the problem .
+Targets: I doubt that twenty years is too short of a time to solve the problem .
+Generated: I cast doubt that twenty years is too short of a time to prove the problem.
+
+Sample No. : 150
+Inputs:  It may tell us how large the world it is .
+Targets: It may tell us how large the world is .
+Generated: It may tell us how large the world is.
+
+Sample No. : 151
+Inputs:  Three other costumer have not started using the product because they dont have anything to hang it with .
+Targets: Three other customers have not started using the product because they do n't have anything to hang it with .
+Generated: Three other costumers have not started using the product because they don't have anything to hang it with.
+
+Sample No. : 152
+Inputs:  This casts doubt in the reading passage 's assertion that fluoride prevents dental cavities . 
+Targets: This casts doubt in the reading passage 's assertion that fluoride prevents dental cavities . 
+Generated: This casts doubt in the reading passage's assertion that fluoride prevents dental cavities.
+
+Sample No. : 153
+Inputs:  If every people thinks to learn and understand lots of scientifc subjects , any person will do not do it and as a result of this any science is n't imporeved . 
+Targets: If every person seeks to learn and understand many scientific subjects , and anyone can or ca n't do it , then the result will be that science wo n't improve . 
+Generated: If every person tries to learn and understand lots of scientific subjects, no person will do it and as a result of this science isn't improved.
+
+Sample No. : 154
+Inputs:  Obviously the unreplaciable examination and less enemy can bring huge advance to fulfill the defination about success .
+Targets: Obviously the irreplaceable examination and fewer enemies can bring huge advances to fulfill the definition of success .
+Generated: Obviously the irreplaceable examination and less enemies can bring huge advances to fulfill the definition of success.
+
+Sample No. : 155
+Inputs:  It figures Diana Krall wearing a Rolex watch and has a text that suggests that if the reader wants to belong to the restricted club , not necessarily of Rolex watch wearers , but of highly talented , sophisticated and competent artists , he or she should also have a Rolex . 
+Targets: It features Diana Krall wearing a Rolex watch and the text suggests that if the reader wants to belong to a restricted club -- not necessarily of Rolex watch-wearers -- but of highly talented , sophisticated , competent artists , then he or she should also have a Rolex . 
+Generated: It figures Diana Krall wearing a Rolex watch and has a text that suggests that if the reader wants to belong to the restricted club, not necessarily of Rolex watch wearers 
+
+Sample No. : 156
+Inputs:  Let 's say your interest lies in paintings .
+Targets: Let 's say your interest lies in paintings .
+Generated: Let's say your interest lies in paintings.
+
+Sample No. : 157
+Inputs:  Facts helps us to know the utility or advantages of the product that has newly formed .
+Targets: Facts help us to know the utility or advantages of the products that are newly formed .
+Generated: Facts help us know the utility or advantages of the product that has newly formed.
+
+Sample No. : 158
+Inputs:  Therefore , many psychological tricks are used to let a product seem more attractive than it is in reality .
+Targets: Therefore , many psychological tricks are used to make a product seem more attractive than it is in reality .
+Generated: Therefore, many psychological tricks are used to make a product seem more attractive than it is in reality.
+
+Sample No. : 159
+Inputs:  Maybe I can not enjoy in real meaning and I am tired .
+Targets: Maybe I can not enjoy the real meaning because I am tired .
+Generated: Maybe I can not enjoy the real meaning and I am tired.
+
+Sample No. : 160
+Inputs:  In fact this device was different from its competitor products .
+Targets: In fact , this device was different from its competitor 's products .
+Generated: In fact, this device was different from its competitor products.
+
+Sample No. : 161
+Inputs:  They are simply manipulated by the idea of the top-product like best seller , brand , luxuries and briefly think about their own safe .
+Targets: They are simply manipulated by the idea of the top-product , best seller , brand , luxuries and briefly think about their own safety .
+Generated: They are simply manipulated by the idea of the top-product being a best seller, brand, luxuries and briefly think about their own safety.
+
+Sample No. : 162
+Inputs:  However , all of them are limited . 
+Targets: However , all of them are limited . 
+Generated: However, all of them are limited.
+
+Sample No. : 163
+Inputs:  Firstly , I think that communities equal human rerationship . 
+Targets: Firstly , I think that communities equal human relationships . 
+Generated: Firstly, I think that communities are equal to human relationship.
+
+Sample No. : 164
+Inputs:  For example , the most famous Thomas Edison was asked a question when he applied for a loan to a bank one more time for his experiments which were failing . 
+Targets: For example , the famous Thomas Edison was questioned when he applied at a bank for yet another loan for his experiments , which were failing . 
+Generated: For example, the famous Thomas Edison was questioned when he applied for a loan to a bank for his experiments, which were failing.
+
+Sample No. : 165
+Inputs:  For example , Many scientists and engineers are study about cars that make no more tough sound , and smoke .
+Targets: For example , many scientists and engineers study about cars that make no loud noise or smoke .
+Generated: For example, many scientists and engineers study cars that make no more tough sounds or smoke.
+
+Sample No. : 166
+Inputs:  Since I was in a group , I should respect the group rule . 
+Targets: Since I was in the group , I should have respected the group rule . 
+Generated: Since I was in a group, I should respect the group's rules.
+
+Sample No. : 167
+Inputs:  The new things bring the brainstorm which other people cannot get . 
+Targets: New things bring the brainstorming that other people cannot do . 
+Generated: The new things bring brainstorming, which some people cannot do.
+
+Sample No. : 168
+Inputs:  books some times have an old information so it will be wrong . 
+Targets: Books sometimes have old information that is wrong . 
+Generated: Books sometimes have old information so it will be wrong.
+
+Sample No. : 169
+Inputs:  While air travel has increased in recent years , there has been no decrease in car travel or car sales . 
+Targets: While air travel has increased in recent years , there has been no decrease in car travel or car sales . 
+Generated: While air travel has increased in recent years, there has been no decrease in car travel or car sales.
+
+Sample No. : 170
+Inputs:  There are a lot of big streets in my town . 
+Targets: There are a lot of big streets in my town . 
+Generated: There are a lot of big streets in my town.
+
+Sample No. : 171
+Inputs:  I think to learn facts is only an evidence if the students can work hard and if they are able to keep every detailled information as tought , but it 's definitly not an evidence for their intelligence .
+Targets: I think to learn facts is only effective if the students can work hard and they are able to keep every detailed information as taught , but it 's definitely not a measure of their intelligence .
+Generated: I think to learn facts is only evidence if the students can work hard and if they are able to keep every detail of information they are taught, but it's definitely not evidence of
+
+Sample No. : 172
+Inputs:  this is how we are transforming our society at the present days The actual fact of being against this statement is that we are looking what we want at the moment in order to have a great time . 
+Targets: This is how we are transforming our society at the present ; the actual fact of being against this statement is that we are looking for what we want at the moment in order to have a great time . 
+Generated: This is how we are transforming our society in the present day. The actual fact of being against this statement is that we are looking at what we want at the moment in order to have a great time.
+
+Sample No. : 173
+Inputs:  The consumers also know how advertisemnets are . 
+Targets: The consumers also know what advertisements are like . 
+Generated: The consumers also know how advertisements are.
+
+Sample No. : 174
+Inputs:  Therefore they could not get informations about their needs rather than now , we can find out what we are want and get alot of informations about our interests .
+Targets: Therefore , they could not get information about their needs compared to now , when we can find out what we want and get a lot of information about our interests .
+Generated: Therefore, they could not get information about their needs compared to now, we can find out what we want and get a lot of information about our interests.
+
+Sample No. : 175
+Inputs:  but lecturer shows different angle of the systm ...
+Targets: The lecturer shows a different angle of the system .
+Generated: But the lecturer shows different angles of the system.
+
+Sample No. : 176
+Inputs:  It means , to understand an war development , you should understand the ideas and cultural moviments that resulted in a particular period , and helped for the occuring of that war , for exemple . 
+Targets: It means , to understand why a war developed , you should understand the ideas and cultural movements that resulted in a particular period and helped cause that war , for example . 
+Generated: It means, to understand an war development, you should understand the ideas and cultural moviments that resulted in a particular period, and helped for the occurring of that war, for example.
+
+Sample No. : 177
+Inputs:  For exemple , you were working like broadcaster but in the office and city where you are working . 
+Targets: For example , you would work as a broadcaster , but in the office and city where you are now working . 
+Generated: For example, you were working like broadcaster but in the office and city where you are working.
+
+Sample No. : 178
+Inputs:  Its cost is half than other but lifecycle is the same . 
+Targets: It costs half of the other but its lifecycle is the same . 
+Generated: Its cost is half than the other but its lifecycle is the same.
+
+Sample No. : 179
+Inputs:  They sometimes teach poor people who cannot afford to go to college , and also , they teach poor kids , too . 
+Targets: They sometimes teach poor people and poor kids who cannot afford to go to college . 
+Generated: They sometimes teach poor people who cannot afford to go to college, and they also teach poor kids too.
+
+Sample No. : 180
+Inputs:  that is not true also .
+Targets: That is also not true .
+Generated: That is also not true.
+
+Sample No. : 181
+Inputs:  Ther third reason , is that give us the chance to make our brain work and think about how this happien .
+Targets: The third reason , is that it give us the chance to make our brain work and think about how this happened .
+Generated: The third reason is that it gives us the chance to make our brain work and think about how this happens.
+
+Sample No. : 182
+Inputs:  Altough life is never easy : the age do n't depend on when you can be protected or prevented from bad things . 
+Targets: Although life is never easy , age does n't determine when you can be protected or prevented from bad things . 
+Generated: Life is never easy, age doesn't depend on when you can be protected or prevented from bad things.
+
+Sample No. : 183
+Inputs:  Most scientists say these bass play a much more significant role in the decrease of the menhaden population .
+Targets: Most scientists say the bass play a much more significant role in the decrease of the menhaden population .
+Generated: Most scientists say these bass play a much more significant role in the decrease of the menhaden population.
+
+Sample No. : 184
+Inputs:  So the importance of communities in sosiety decreased . 
+Targets: So the importance of communities in society decreased . 
+Generated: So the importance of communities in society decreased.
+
+Sample No. : 185
+Inputs:  I chose law and began to study everything about italian law . 
+Targets: I chose law and began to study everything about Italian law . 
+Generated: I chose law and began to study everything about Italian law.
+
+Sample No. : 186
+Inputs:  That is why calculated risks , as one could call them , are the predecessors of big success , because they get people 's attention by giving people new options .
+Targets: Calculated risks , as one could call them , are the predecessors of big success because they get people 's attention by giving them new options .
+Generated: That is why calculated risks, as one could call them, are the predecessors of big success, because they get people's attention by giving people new options.
+
+Sample No. : 187
+Inputs:  These activities make the community a better place to live in and inculcate these values in all the members . 
+Targets: These activities make the community a better place to live in and inculcate these values in all its members . 
+Generated: These activities make the community a better place to live in and inculcate these values in all the members.
+
+Sample No. : 188
+Inputs:  But they do things in a different maner than others which gives them success . 
+Targets: But they do things in a different manner than others which gives them success . 
+Generated: But they do things in a different manner than others, which gives them success.
+
+Sample No. : 189
+Inputs:  So in this field it is very importnat to understand all concepts and idease which they gave us and use to solve problems . 
+Targets: So in this field , it is very important to understand all concepts and ideas , which they gave us to use to solve problems . 
+Generated: So in this field, it is very important to understand all the concepts and ideas they gave us and use them to solve problems.
+
+Sample No. : 190
+Inputs:  This is supported by national and internation policy which is presenting attractively the advantages of going abroad , make self-experiences in other countries and cultures , learning foreign-languages while staying in a country where this language is spoken , and so on .
+Targets: This is supported by national and international policy which attractively presents the advantages of going abroad , making self-experiences in other countries and cultures , learning foreign-languages while staying in a country where this language is spoken , and so on .
+Generated: This is supported by national and international policy which is presenting attractively the advantages of going abroad, making self-experiences in other countries and cultures, learning foreign-languages while
+
+Sample No. : 191
+Inputs:  Help others and make we all live in a confortable home .
+Targets: Help others and we will all live in a comfortable home .
+Generated: Help others and make sure we all live in a comfortable home.
+
+Sample No. : 192
+Inputs:  So its depends on the defferent body nature .
+Targets: So it depends on the different body nature .
+Generated: So it depends on the different body nature.
+
+Sample No. : 193
+Inputs:  if someone is n't know eating is very important for growth bons and brian or general for body it is fact but idease eating is just useful .
+Targets: If someone is n't know eating is very important for growth bones and brain or general for body it is fact that eating is just useful .
+Generated: If someone doesn't know eating is very important for growth of bones, brain or general for body it is fact that eating is just useful.
+
+Sample No. : 194
+Inputs:  Also its been on all the sections because we use the head phones it makes alot of noise and it seriously very hard to stay on task . 
+Targets: Also it has been on all the sections because when we use the head phones it makes a lot of noise and it is seriously very hard to stay on task . 
+Generated: Also it has been on all the sections because we use the head phones it makes a lot of noise and it is seriously very hard to stay on task.
+
+Sample No. : 195
+Inputs:  the carebendiocside is very harm full for the people . 
+Targets: The carbon dioxide is very harmful for people . 
+Generated: Carbon dioxide is very harmful for people.
+
+Sample No. : 196
+Inputs:  Many people whaching advertise .
+Targets: Many people watch advertising .
+Generated: Many people watch advertisements.
+
+Sample No. : 197
+Inputs:  I mean our homecontry because we can speak Japanese and can use Japanese .
+Targets: I mean our home country , because we can speak Japanese and can use the Japanese language .
+Generated: I mean our home country because we can speak and use Japanese.
+
+Sample No. : 198
+Inputs:  I believe , this number is increasing and will continue to increase as generations of educated people pass on their wisdom to their children . 
+Targets: I believe , this number is increasing and will continue to increase as generations of educated people pass on their wisdom to their children . 
+Generated: I believe this number is increasing and will continue to increase as generations of educated people pass on their wisdom to their children.
+
+Sample No. : 199
+Inputs:  Although the weatherrealted factors could be considered , such as the land shape of the area . 
+Targets: Although the weather related factors , such as the land shape of the area , could be considered . 
+Generated: Although weather-related factors could be considered, such as the land shape of the area.
+

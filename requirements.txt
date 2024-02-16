@@ -1,0 +1,6 @@
+transformers==v4.37.1 
+sentencepiece 
+datasets 
+accelerate
+torch
+rouge_score
